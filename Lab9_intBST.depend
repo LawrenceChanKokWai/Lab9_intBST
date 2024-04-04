@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1712216172 source:c:\users\chankokwai\desktop\lab9_intbst\main.cpp
+	<iostream>
+	<fstream>
+	"BST.h"
+
+1712214377 c:\users\chankokwai\desktop\lab9_intbst\bst.h
+	<iostream>
+
+1712214371 source:c:\users\chankokwai\desktop\lab9_intbst\bst.cpp
+	"BST.h"
+
+1712213841 source:c:\users\chankokwai\desktop\lab9_intbst\bsttest.cpp
+	<iostream>
+	"BST.h"
+
